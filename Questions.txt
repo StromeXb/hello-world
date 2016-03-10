@@ -1,3 +1,8 @@
 print("How old are you?")
 print("Where are you from?")
+<<<<<<< HEAD
+print("Please, enter your First name:")
+print("Please, enter your Last name:")
+=======
 print("who is your daddy?")
+>>>>>>> master
