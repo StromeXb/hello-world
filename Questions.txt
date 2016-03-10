@@ -1,1 +1,2 @@
 print("How old are you?")
+print("Where are you from?")
